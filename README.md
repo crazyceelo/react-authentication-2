@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Authentication in React Applications
 ====================================
 The source code for a two-part tutorial for beginners who want to start to build applications using React and add an authentication layer to it. It was written for my blog, [https://vladimirponomarev.com](http://vladimirponomarev.com).
@@ -10,3 +11,6 @@ Parts of the tutorial
 Screenshot
 ----------
 ![Authentication in React Applications](https://raw.github.com/vladimirponomarev/authentication-in-react-apps/master/screenshot.png)
+=======
+# react-authentication-2
+>>>>>>> dad7da447080be34b37e6e7b2055be2657108fb0
